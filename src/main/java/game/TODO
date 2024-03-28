@@ -1,0 +1,17 @@
+TODO
+# Diferencia entre las colisiones y la graficación
+# La manzana puede aparecer arriba del cuerpo de la snake cuando es muy larga
+# El score está ahi molestando, se le puede pasar por arriba
+
+# Funcionalidades LSD
+- Que los gráficos se hagan más chiquitos
+- Que cambien los colores, ya sea del fondo o de la snake
+- Que dé más puntos o más bodyParts
+
+# Otras funcionalidades
+- Poner un menú para rejugar
+- Poner contador de puntos y usuarios
+- Poner música para el juego y para las partes LSD
+
+
+PENSAR LA ARQUITECTURA DEL PROYECTO
